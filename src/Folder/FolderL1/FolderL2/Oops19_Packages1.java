@@ -1,5 +1,13 @@
 package Folder.FolderL1.FolderL2;
 
+/**
+ * This class is to demonstrate what Scientific Calculator is.
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ * @see <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">Java Docs</a>
+ */
+
 class Calculator{
     public void calculate(int a, int b){
         System.out.println("Your result is: " + (a+b));

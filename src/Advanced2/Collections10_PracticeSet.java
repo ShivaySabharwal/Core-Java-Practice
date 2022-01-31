@@ -7,6 +7,13 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.HashSet;
 
+/**
+ * This class is to demonstrate what PracticeSet is.
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ */
+
 public class Collections10_PracticeSet {
     public static void main(String[] args) {
         ArrayList ar = new ArrayList();

@@ -8,6 +8,14 @@ import java.util.Scanner;
 //
 // 3) Write a program that allows you to given. If max retries exceed 5 print "errors".
 
+/**
+ * This class is to demonstrate what Exception is and how it is used in the java industry
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ * @see <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">Java Docs</a>
+ */
+
 public class Seventeenth_Exceptions_Practice {
     public static void main(String[] args) {
         // Problem 1

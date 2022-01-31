@@ -11,6 +11,15 @@ package Advanced1;
         3. Max Input Exception if any of the inputs is greater than 100000
         4. Max Multiplier Reached Exception - Don't allow any multiplication input to be greater than 7000
         */
+
+/**
+ * This class is to demonstrate what Calculator Exception is.
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ * @see <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">Java Docs</a>
+ */
+
 class InvalidInputException extends Exception{
     @Override
     public String toString() {

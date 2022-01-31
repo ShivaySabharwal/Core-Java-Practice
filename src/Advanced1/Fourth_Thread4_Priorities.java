@@ -1,5 +1,13 @@
 package Advanced1;
 
+/**
+ * This class is to demonstrate what Thread Priority is and how it is used in the java industry
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ * @see <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">Java Docs</a>
+ */
+
 class MyThr1 extends Thread{
     public MyThr1(String name){
         super(name);
