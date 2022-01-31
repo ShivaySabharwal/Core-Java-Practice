@@ -11,6 +11,13 @@ package Advanced2;
         Assume that all the users are registered with their names in the central database
 */
 
+/**
+ * This class is to demonstrate what Library Management System is.
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ */
+
 public class PS_LibraryManagementSystem {
     public static void main(String[] args) {
 

@@ -2,6 +2,14 @@ package Advanced2;
 
 import java.util.LinkedList;
 
+/**
+ * This class is to demonstrate what LinkedList is and how it is used in the java industry
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ * @see <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">Java Docs</a>
+ */
+
 public class Collections2_LinkedList {
     public static void main(String[] args) {
         LinkedList<Integer> l1 = new LinkedList<>();

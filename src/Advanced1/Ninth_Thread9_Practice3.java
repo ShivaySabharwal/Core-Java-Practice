@@ -7,6 +7,15 @@ package Advanced1;
 //Question 5: How do you get the reference to the current thread in Java?
 //
 //Answer 5: currentThread() method is used to reference the current thread in Java.
+
+/**
+ * This class is to demonstrate what Thread is and how it is used in the java industry
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ * @see <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">Java Docs</a>
+ */
+
 class PracticeThread extends Thread{
     public void run(){
         while(true){

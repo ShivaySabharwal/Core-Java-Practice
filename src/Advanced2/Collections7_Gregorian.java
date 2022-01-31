@@ -4,6 +4,14 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.TimeZone;
 
+/**
+ * This class is to demonstrate what GregorianCalendar Class is and how it is used in the java industry
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ * @see <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">Java Docs</a>
+ */
+
 public class Collections7_Gregorian {
     public static void main(String[] args) {
         Calendar c = Calendar.getInstance();

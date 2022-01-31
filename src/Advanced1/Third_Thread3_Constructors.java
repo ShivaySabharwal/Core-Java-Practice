@@ -1,5 +1,14 @@
 package Advanced1;
 
+/**
+ * This class is to demonstrate what Thread is and how it is used in the java industry
+ * This is <i>italic</i> word<p>this is a new paragraph</p>
+ * @author Shivay Sabharwal
+ * @version 1.0
+ * @since 2021
+ * @see <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank">Java Docs</a>
+ */
+
 class MyThr extends Thread{
     public MyThr(String name){
         super(name);
