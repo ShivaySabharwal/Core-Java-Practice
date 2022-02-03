@@ -83,5 +83,7 @@ public class PS_LibraryManagementSystem {
         System.out.println(obj.book_list + "\n");
 
         obj.returnBook(b2, "Hardik Chodha");
+
+        System.out.println("Process Exited.");
     }
 }
