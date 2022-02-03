@@ -30,7 +30,7 @@ public class PracticeSet {
         String table = "";
         for(int i = 0; i <= 10; i++){
             for (int j = 0; j < 10; j++) {
-                table += i + "X"+(j+1) + " = " + i*(j+1);
+                table += i + " X "+(j+1) + " = " + i*(j+1);
                 table += "\n";
             }
             try {
